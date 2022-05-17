@@ -26,7 +26,7 @@ The primary contributor is Yujing "Bryant" Zhou, an incoming Ph.D. student at Pr
 
 MATLAB and Simulink are primarily used for this project.
 
-The [QUARC] (https://www.quanser.com/products/quarc-real-time-control-software/) real-time control software is required to run the Simulink files for simulation tests.
+The [QUARC](https://www.quanser.com/products/quarc-real-time-control-software/) real-time control software is required to run the Simulink files for simulation tests.
 
 A scaled car developed by Quanser, named [QCar](https://www.quanser.com/products/qcar/), is required to run the hardware tests.
 

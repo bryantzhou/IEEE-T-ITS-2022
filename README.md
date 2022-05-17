@@ -24,7 +24,7 @@ The primary contributor is Yujing "Bryant" Zhou, an incoming Ph.D. student at Pr
 
 ## Language
 
-MATLAB and Simulink are primarily used for this project.
+MATLAB and Simulink are primarily used for this project. A minimum version of MATLAB-R-2020-a is required.
 
 The [QUARC](https://www.quanser.com/products/quarc-real-time-control-software/) real-time control software is required to run the Simulink files for simulation tests.
 
